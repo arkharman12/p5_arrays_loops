@@ -1,1 +1,2 @@
-# p5_arrays_loops
+# p5 Arrays and Loops
+A bouncing ball animation with ten or more balls
